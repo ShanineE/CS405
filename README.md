@@ -32,8 +32,10 @@ This CS 405 project outlines secure development practices and policies for the h
 - Update policy for emerging security threats  
 
 ## Resources / Examples
-- [Policy Documnet PDF](GreenPace_Secure_Development_Policy.docx)
-- [Presentation PowerPoint](CS405_Project_Two_Presentation_Template.pptx)
+
+- [Policy Document PDF](GreenPace_Secure_Development_Policy.docx)  
+- [Presentation PowerPoint](CS405_Project_Two_Presentation_Template.pptx)  
 
 ## Video Presentation
-[![Watch the Presentation](https://img.youtube.com/vi/sAzfI5XjkLc/0.jpg)](https://www.youtube.com/watch?v=sAzfI5XjkLc)
+**🎥 Watch the Presentation on YouTube**  
+[![Presentation Thumbnail](https://img.youtube.com/vi/sAzfI5XjkLc/0.jpg)](https://www.youtube.com/watch?v=sAzfI5XjkLc)
