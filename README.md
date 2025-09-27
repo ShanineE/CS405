@@ -32,4 +32,5 @@ This CS 405 project outlines secure development practices and policies for the h
 - Update policy for emerging security threats  
 
 ## Resources / Examples
-  
+-[Policy Documnet PDF] (CS 405 Project Two Presentation Template (1).pptx)
+-[Presentation PowerPoint] (
