@@ -33,4 +33,4 @@ This CS 405 project outlines secure development practices and policies for the h
 
 ## Resources / Examples
 -[Policy Documnet PDF] (CS 405 Project Two Presentation Template (1).pptx)
--[Presentation PowerPoint] (CS 405 Project Two Presentation Template (1).pptx)
+-[Presentation PowerPoint](CS405_Project_Two_Presentation_Template.pptx)
